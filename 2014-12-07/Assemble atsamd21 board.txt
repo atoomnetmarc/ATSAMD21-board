@@ -1,0 +1,18 @@
+ic0: SAMD21G
+led0: 0805 red
+led1: 0805 green
+r0, r1, r2: 0805 330
+c0, c1: 0805 1uF
+c2, c3, c5: 0805 100nF
+c10, c11, c12: 0805 10uF
+c20, c21: 0805 22pF
+c30: 0805 4.5nF
+r10: 0805 1M
+l0, l1: 2012 10uH
+d0, d1, d2, d3: sot23 bav99
+ic1: sot223 AMS1117-3.3
+RESET: smd tactile switch
+Q0: tc26h 12.5pf 32.768kHz
+swd: 2x10 2.54 pin header
+jp1, jp2: 2x12 pin socket mount on bottom
+X1: usb connector type b PN61729-S
